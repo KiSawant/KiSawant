@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Sawant</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width ="400" src="https://www.bing.com/images/search?view=detailV2&ccid=Y7fsScbS&id=A6304CB96AB3E0CE2361538D4FFF978368EE3675&thid=OIP.Y7fsScbSY8Htrj9wfoHIMgHaD4&mediaurl=https%3a%2f%2fres.infoq.com%2fnews%2f2020%2f10%2fsvelte-d3-animation-data-vis%2fen%2fheaderimage%2fcroppted-data%2bvisualization-1603230969620.jpeg&exph=630&expw=1200&q=animated+data+anlysis+working&simid=608053737689986644&FORM=IRPRST&ck=7ADAD36BD9CFC5D153F8A78FFE68B8DF&selectedIndex=13">
+<img align="right" alt="coding" width ="400" src="https://th.bing.com/th/id/OIP.I50iuVkZEzT8Lkich1Vx1AHaFW?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisawant&label=Profile%20views&color=0e75b6&style=flat" alt="kisawant" /> </p>
 
